@@ -1,0 +1,155 @@
+[
+    {
+        "Unnamed: 0":0,
+        "NAME OF THE FACULTY":"Mr.K.Ramana",
+        "DESIGNATION":"Assistant Professor  (C)",
+        "DEPARTMENT":"CSE",
+        "MAIL ID,S":"ada_engg@rguktsklm.ac.in",
+        "CONTACT NUMBERS":8074166610,
+        "Position":"Associate Dean of Academics,Engineering"
+    },
+    {
+        "Unnamed: 0":1,
+        "NAME OF THE FACULTY":"Dr.B.Swathi",
+        "DESIGNATION":"Assistant Professor  (C)",
+        "DEPARTMENT":"CHEMISTRY",
+        "MAIL ID,S":"ada_puc@rguktsklm.ac.in",
+        "CONTACT NUMBERS":7780496464,
+        "Position":"Associate Dean of Academics,PUC"
+    },
+    {
+        "Unnamed: 0":2,
+        "NAME OF THE FACULTY":"Mr.Y.V.G.NUKESWARA RAO",
+        "DESIGNATION":"Mentor",
+        "DEPARTMENT":"ENGLISH",
+        "MAIL ID,S":"hodenglish@rguktsklm.ac.in",
+        "CONTACT NUMBERS":7780576518,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":3,
+        "NAME OF THE FACULTY":"Dr.B,NEELA RAO",
+        "DESIGNATION":"Assistant Professor  (C)",
+        "DEPARTMENT":"MATHEMATICS",
+        "MAIL ID,S":"hodmaths@rguktsklm.ac.in",
+        "CONTACT NUMBERS":9059111899,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":4,
+        "NAME OF THE FACULTY":"Mr.T.RAGHAVENDRA RAO",
+        "DESIGNATION":"Assistant Professor  (C)",
+        "DEPARTMENT":"PHYSICS",
+        "MAIL ID,S":"hodphysics@rguktsklm.ac.in",
+        "CONTACT NUMBERS":9492520275,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":5,
+        "NAME OF THE FACULTY":"Mr.S.SREENUVASARAO",
+        "DESIGNATION":"Mentor",
+        "DEPARTMENT":"IT",
+        "MAIL ID,S":"hodit@rguktsklm.ac.in",
+        "CONTACT NUMBERS":9490545842,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":6,
+        "NAME OF THE FACULTY":"Dr.P.CHIRANJEEVI",
+        "DESIGNATION":"Assistant Professor  (C)",
+        "DEPARTMENT":"TELUGU",
+        "MAIL ID,S":"hodtelugu@rguktsklm.ac.in",
+        "CONTACT NUMBERS":7981927954,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":7,
+        "NAME OF THE FACULTY":"Dr.L.CHANDRA SEKARARAO",
+        "DESIGNATION":"Assistant Professor  (C)",
+        "DEPARTMENT":"CHEMISTRY",
+        "MAIL ID,S":"hodchemistry@rguktsklm.ac.in",
+        "CONTACT NUMBERS":8297291333,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":8,
+        "NAME OF THE FACULTY":"Dr.G.SIVA PRAVEENA",
+        "DESIGNATION":"Assistant Professor  (C)",
+        "DEPARTMENT":"BIOLOGY",
+        "MAIL ID,S":"hodbiology@rguktsklm.ac.in",
+        "CONTACT NUMBERS":98885980369,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":9,
+        "NAME OF THE FACULTY":"Mr.Y. Ramesh",
+        "DESIGNATION":"Assistant Professor \u00a9",
+        "DEPARTMENT":"CSE",
+        "MAIL ID,S":"ramesh.yajjala42@gmail.com",
+        "CONTACT NUMBERS":7306509500,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":10,
+        "NAME OF THE FACULTY":"M.V.TIRUPATAMMA",
+        "DESIGNATION":"Assistant Professor \u00a9",
+        "DEPARTMENT":"ECE",
+        "MAIL ID,S":"anjalipeesa11@rguktsklm.ac.in",
+        "CONTACT NUMBERS":9491808156,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":11,
+        "NAME OF THE FACULTY":"Ms.P Gowthami",
+        "DESIGNATION":"Assistant Professor \u00a9",
+        "DEPARTMENT":"EEE",
+        "MAIL ID,S":"gowthamipgt@gmail.com",
+        "CONTACT NUMBERS":9493342263,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":12,
+        "NAME OF THE FACULTY":"Mr.CH Teja kiran",
+        "DESIGNATION":"Assistant Professor \u00a9",
+        "DEPARTMENT":"Civil",
+        "MAIL ID,S":"tejakiran@rguktsklm.ac.in",
+        "CONTACT NUMBERS":7981927954,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":13,
+        "NAME OF THE FACULTY":"Mr.CH.SURYA PRAKASH",
+        "DESIGNATION":"Assistant Professor \u00a9",
+        "DEPARTMENT":"Mechanical",
+        "MAIL ID,S":"s.kiranmai3@rguktsklm.ac.in",
+        "CONTACT NUMBERS":8247328409,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":14,
+        "NAME OF THE FACULTY":"Mrs.D.SRILAKSHMI",
+        "DESIGNATION":"Assistant Professor \u00a9",
+        "DEPARTMENT":"MUSIC",
+        "MAIL ID,S":null,
+        "CONTACT NUMBERS":7702671488,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":15,
+        "NAME OF THE FACULTY":"Dr.G.ESWARA RAO",
+        "DESIGNATION":"Assistant Professor \u00a9",
+        "DEPARTMENT":"YOGA",
+        "MAIL ID,S":null,
+        "CONTACT NUMBERS":9121689139,
+        "Position":"HOD"
+    },
+    {
+        "Unnamed: 0":16,
+        "NAME OF THE FACULTY":"Mrs.D.NIRMALA KUMARI",
+        "DESIGNATION":"Assistant Professor \u00a9",
+        "DEPARTMENT":"LIBRARY",
+        "MAIL ID,S":null,
+        "CONTACT NUMBERS":6302372494,
+        "Position":"HOD"
+    }
+]
